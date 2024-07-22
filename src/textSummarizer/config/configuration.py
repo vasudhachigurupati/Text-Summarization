@@ -50,7 +50,7 @@ class ConfigurationManager:
         return data_validation_config
     
 
-    def get_data_transformation_config(self) -> DataTransformationConfig:
+    """def get_data_transformation_config(self) -> DataTransformationConfig:
         config = self.config.data_transformation
 
         create_directories([config.root_dir])
@@ -103,4 +103,4 @@ class ConfigurationManager:
            
         )
 
-        return model_evaluation_config
+        return model_evaluation_config"""
