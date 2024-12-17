@@ -7,3 +7,4 @@
 # update the pipeline
 # update the main.py
 # update the app.py
+Goole colab link:https://colab.research.google.com/drive/1TKXCARF04MNIeBrLP4T0XpJRNvtRfrjI?usp=sharing
